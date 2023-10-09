@@ -1,8 +1,18 @@
-# React + Vite
+# Install React + Vite
+npm create vite@latest
+npm install
+npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+npm install axios
+npm install react-router-dom
+npm install react-icons
 
-Currently, two official plugins are available:
+# Install Mui
+npm install @mui/material@emotion/react@emotion/styled
+npm install @mui/icons-material
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Install Mui Calendar
+https://mui.com/x/react-date-pickers/date-calendar/
+
+npm install @mui/x-date-pickers
+npm install dayjs
