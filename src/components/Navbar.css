@@ -1,0 +1,48 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:1rem 2.3rem;
+    /*padding: 15px 32px;*/
+    background-color: #2075D9;
+}
+
+.menu-toggle {
+    cursor: pointer;
+    font-size: 24px;  
+    color: white;
+}
+
+.menu-toggle img {
+    height: 48px; 
+    width: 48px;  
+}
+
+.menu {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #2075D9;
+    position: absolute;
+    top: 104px;
+    left: 0;
+    width: 100%;
+    padding:20px;
+    border-top: 1px solid #FFF;
+    z-index: 999;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+    display: block;
+}
+
+.show {
+    display: flex;
+}
+
+.logo img {
+    height: 80px;
+}
