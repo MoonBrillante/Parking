@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
   # Este repositorio es la parte del front.end de un trabajo grupal para la construcción de un proyecto de reserva de plazas de un parking de dos plantas.
 
-  # Se necesita programa Node
-  # Se encesita programa Vite
+  - Se necesita programa Node
+  - Se encesita programa Vite
